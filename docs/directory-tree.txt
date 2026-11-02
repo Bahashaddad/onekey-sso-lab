@@ -1,0 +1,27 @@
+onekey-sso-lab/
+├── .github/
+│   └── workflows/
+│       └── checks.yml
+├── docs/
+│   ├── dependency-audit.json
+│   ├── directory-tree.txt
+│   ├── file-classification.csv
+│   ├── portfolio-review.md
+│   ├── threat-model.md
+│   └── verification.md
+├── tests/
+│   ├── conftest.py
+│   └── test_security.py
+├── tools/
+│   └── check_publication.py
+├── .env.example
+├── .gitignore
+├── CHANGELOG.md
+├── LICENSE
+├── NOTICE.md
+├── README.md
+├── SECURITY.md
+├── app.py
+├── pyproject.toml
+├── requirements-dev.txt
+└── requirements.txt
